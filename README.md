@@ -31,4 +31,4 @@ Built for learning and understanding the basics of **Bubble Sort**, **Selection 
 2. Open a terminal in the project folder
 3. Compile the file:
    ```bash
-   javac SortingVisualizer.java
+   javac SortVision.java
